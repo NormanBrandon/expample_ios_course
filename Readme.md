@@ -9,3 +9,4 @@ para el diplomado
 - Arrays
 - Data Types
 - Collections (diccionary, Sets, arrays)
+- git 
