@@ -1,6 +1,6 @@
 # GIT CLASS
 Aquí estan mis notas de mi clase de git
-para el diplomado
+para el diplomado Esta chidori to
 
 ## Primer módulo
 
@@ -9,3 +9,4 @@ para el diplomado
 - Data Types
 - Collections (diccionary, Sets, arrays)
 - git 
+- mas temas
