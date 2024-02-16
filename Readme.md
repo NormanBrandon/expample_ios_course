@@ -6,7 +6,6 @@ para el diplomado
 
 - MacOs
 - Constantes y variables
-- Arrays
 - Data Types
 - Collections (diccionary, Sets, arrays)
 - git 
