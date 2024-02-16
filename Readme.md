@@ -4,7 +4,7 @@ para el diplomado Esta chidori to
 
 ## Primer módulo
 
-- MacOs
+- macOs
 - Constantes y variables
 - Data Types
 - Collections (diccionary, Sets, arrays)
