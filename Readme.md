@@ -9,3 +9,4 @@ para el diplomado Esta chidori to
 - Collections (diccionary, Sets, arrays)
 - git 
 - mas temas
+- nuevo cambio main
